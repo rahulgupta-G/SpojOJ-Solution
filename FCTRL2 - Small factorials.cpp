@@ -50,7 +50,8 @@ int main()
 {
     int i, number;
     strcpy(fact[0], "1");
-
+    
+    
     for(i = 1; i <= NUM; i++)
     {
         sprintf(num, "%d", i);
